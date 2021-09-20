@@ -7,6 +7,10 @@ const team = [
     {
         name: 'Yony Garcia',
         email: '20181138@uthh.edu.mx'
+    },
+    {
+        name: 'Babel Sanjuan Sanjuan',
+        email: 'babel10202000@gmail.com'   
     }
 ]
 
