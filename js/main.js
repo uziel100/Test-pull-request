@@ -11,7 +11,11 @@ const team = [
     {
         name: 'Anastasio Del Angel Del Angel',
         email: '20181168@uthh.edu.mx'
-    }
+    },
+    {
+        name: 'Babel Sanjuan Sanjuan',
+        email: 'babel10202000@gmail.com'
+     }
 ]
 
 
